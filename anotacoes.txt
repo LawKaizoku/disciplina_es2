@@ -1,2 +1,4 @@
 Thales Abdon Lopes De Sousa
 Engenharia De Software 2
+Gostei bastante da aula por haver exemplos práticos, o que me auxiliou bastante na hora de exercitar o git/github.
+
